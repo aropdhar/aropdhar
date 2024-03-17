@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end & Backend Developer
 - 🌱 I’m currently learning Mern-Stack Development
 - 💞️ I’m looking to collaborate on javascript,React,Node js Etc.
-- 📫 How to reach me 01304233842
+- 📫 How to reach me aropdhar0@gmail.com
 - Present Experience:- HTML,CSS,Bootstrap,Tailwind Css,Javscript. 
 - ⚡ Fun fact: ...
 
