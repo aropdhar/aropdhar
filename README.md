@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Mern-Stack Development
 - 💞️ I’m looking to collaborate on javascript,React,Node js Etc.
 - 📫 How to reach me aropdhar0@gmail.com
-- Present Experience:- HTML,CSS,Bootstrap,Tailwind Css,Scss,Javscript. 
-- ⚡ Fun fact: ...
+- Present Experience:- HTML,CSS,Bootstrap,Tailwind Css,Scss,Javscript,React,Redux,Firebase.
+- ⚡ Fun fact:...
 
 <!---
 aropdhar/aropdhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
