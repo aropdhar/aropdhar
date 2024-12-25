@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aropdhar
 - 👀 I’m interested in Front-end & Backend Developer
 - 🌱 I’m currently learning Mern-Stack Development
-- 💞️ I’m looking to collaborate on javascript,React,Node js Etc.
+- 💞️ I’m looking to collaborate on javascript,React,Node js,Express js, MongodDB Etc.
 - 📫 How to reach me aropdhar0@gmail.com
 - Present Experience:- HTML,CSS,Bootstrap,Tailwind Css,Scss,Javscript,React,Redux,Firebase.
 - ⚡ Fun fact:...
